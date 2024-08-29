@@ -15,8 +15,28 @@ body {
     width: 80%;
     margin: 0 auto;
 }
+.container h2 {
+    text-align: center;
+}
 
-/* Nagłówek */
+.container h1 {
+    text-align: center;
+    position: relative;
+    right: -210px;
+    font-size: 30xp;
+    letter-spacing: 20px;
+}
+.container a {
+    text-decoration: none;
+    color:#333;
+    
+}
+.container a:visited {
+    text-decoration: none;
+    color:#333;
+}
+
+
 header {
     background-color: #444;
     color: #fff;
